@@ -13,5 +13,6 @@ python3 -m pip install -r requirements.txt
 # Configuration
 ### source file: ``` test.xlsx ```
 ### result file: ``` result.xlsx ```
-### configure columns: adjust line#5 --> ```col1 = ['IsActive', 'Passwordchange', 'CurrentEmployee', 'EligibleStudent', 'PermenentFacutly', 'Staff', 'Manager', 'Alumni']```
+### configure columns (line #5):    
+    col1 = ['IsActive', 'Passwordchange', 'CurrentEmployee', 'EligibleStudent', 'PermenentFacutly', 'Staff', 'Manager', 'Alumni']    
 
